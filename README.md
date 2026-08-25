@@ -60,4 +60,4 @@ A neighborhood resource-sharing library where members check out power tools, cam
 
 **UC-03 — Borrow/Reserve Equipment**
 
-The use-case flow document covers preconditions, a 12-step main success scenario, two alternate flows (overdue equipment and unavailability), and postconditions.
+The use-case flow document covers preconditions, a 12-step main success scenario, one alternate flow (overdue equipment), and postconditions.
